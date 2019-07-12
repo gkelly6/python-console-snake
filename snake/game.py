@@ -12,15 +12,15 @@ speed = 1
 apples = []
 grow = config.initial_size - 1
 score = 0
-lives = 8
+lives = 2
 
 
 def init():
     global score, lives
 
     reset()
-    score = 0
-    lives = 8
+    score = score+0
+    lives = 2
 
 
 def update():

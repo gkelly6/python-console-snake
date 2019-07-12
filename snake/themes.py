@@ -15,10 +15,10 @@ game_themes = {
     'classic': {
         "colors": {
             "default": (curses.COLOR_WHITE, curses.COLOR_BLACK),
-            "bg": (curses.COLOR_WHITE, curses.COLOR_WHITE),
+            "bg": (curses.COLOR_YELLOW, curses.COLOR_YELLOW),
             "snake": (curses.COLOR_RED, curses.COLOR_GREEN),
             "apple": (curses.COLOR_RED, curses.COLOR_RED),
-            "border": (curses.COLOR_WHITE, curses.COLOR_YELLOW),
+            "border": (curses.COLOR_WHITE, curses.COLOR_BLACK),
             "lives": (curses.COLOR_RED, curses.COLOR_RED),
         },
         "tiles": {
