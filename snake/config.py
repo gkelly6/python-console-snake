@@ -22,4 +22,4 @@ game_sizes = {
     'l': (80, 40),
 }
 
-initial_size = 5
+initial_size = 4
